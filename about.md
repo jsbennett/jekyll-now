@@ -21,4 +21,5 @@ Jay
 
 ### Contact me
 
-[jaysbennett97@gmail.com](mailto:jaysbennett97@gmail.com)
+[email](mailto:jaysbennett97@gmail.com)
+[twitter](https://twitter.com/jaysbennett_)
