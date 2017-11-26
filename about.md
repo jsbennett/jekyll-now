@@ -17,9 +17,11 @@ I hope I am able to bring an insight into this geeky experience with hopefully m
 Enjoy!
 
 Until next time, 
+
 Jay
 
 ### Contact me
 
 [email](mailto:jaysbennett97@gmail.com)
+
 [twitter](https://twitter.com/jaysbennett_)
