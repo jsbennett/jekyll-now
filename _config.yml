@@ -9,7 +9,7 @@ name: Jay Bennett
 description: Proving that even Computer Science can be fierce too
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+avatar: ![Picture of me]({{ site.baseurl }}/images/me.png "me")
 
 #
 # Flags below are optional
