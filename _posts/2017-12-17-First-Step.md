@@ -2,7 +2,7 @@
 layout: post
 title: A Very Small Step Into The Great Unkown...
 ---
-##This Is Just The Beginning
+## This Is Just The Beginning
 
 So this is my first blog post, I don't know how many people (if any) will read this but if you are I have something to say: hey there, welcome, can we be friends?! Nah jk (or am I...)
 
