@@ -15,7 +15,9 @@ People often tend to assume that people interested in basically any STEM subject
 Okay so that paragraph above may sound like I'm trying to gather some Resistance fighters to fight The Empire (Star Wars reference for those not cool enough to be graced by this marvelous creation from George Lucas) but I'm trying to get the point across that us all in STEM are not what you think (unless you are one of us then in that case, yes, we are what you think). Any how, thank you for readinf this first blog! I plan on making more, with topics ranging from interviews, to what I find interesting in the technology sector and just other amazing stuff that I hope you come back to read them (Pleaaaaaassseeeeeeeee). 
 
 Until next time,
+
 dont RM -RF* anything whilst I'm away, 
+
 Jay 
 
 P.S. I was referred onto using a Jekyll blog by a very awesome friend (shout out to Conor) and if you also want to make a blog I would totally recommend going to this repository: https://github.com/barryclark/jekyll-now make a fork and bam a website in minutes. Plus it's so cool. 
