@@ -26,6 +26,7 @@ Answer: ◔_◔ yes.
 So to start, the Dundee University Computer Society were organising a hackathon on the 11th of November 2017. Since Dundee University Computer Society initials are DUCS, they refered to the hackathon as a Quackathon (hahaaaaaaa). 
 For those who do not know what a hackathon (I didn't until I went to one), it has nothing to do with hacking in the sense of illegal things i.e. hacking. 
 Basically, a hackathon is where a group of people come together to hack something together wihtin a certain amount of time, i.e. to create something within 24 hours. 
-So for the Quackathon, we had 24 hours and there were diferent challenges to choose from. 
+
+So for the Quackathon, we had 24 hours and there were different challenges to choose from. 
 
 Blog to be continued... 
