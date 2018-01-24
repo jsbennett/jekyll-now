@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *Insert Ru Paul Drag Race Quote*
+title: Insert Ru Paul Drag Race Quote
 ---
 ## Category is: Quackathon Eleganza Extravaganza
 
@@ -19,7 +19,7 @@ Answer: Yes. No questions about it.
 Answer: Ahhh, my sweet summer child, read on to find out. 
 
 
-**3.But is it really the best? **
+**3.But is it really the best?**
 Answer: ◔_◔ yes.
 
 
