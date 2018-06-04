@@ -2,7 +2,7 @@
 layout: post
 title: Internship Week 1 
 ---
-# Exciting Journey About To Begin...
+## Exciting Journey About To Begin...
 
 Hey there!
 
@@ -10,7 +10,7 @@ So first things first, this blog post and subsequent blog posts will be all abou
 
 I plan on trying to update it daily or every few day on my morning commute but changes will be marked with "Update (Date)" so if you are coming back to read this then you know where I have added new items. 
 
-## This Is The Begining
+### This Is The Begining
 
 I am really excited to be starting my internship at Craneware. Craneware (https://public.craneware.com/) are the market leaders in providing software, tools and services for healthcare institutions used to improve and enhance their earnings.
 
@@ -18,9 +18,9 @@ From this internship I hope to gain new knowledge from the work I do and from ev
 
 I have never embarked on a journey like this before, it's an exciting new plunge into the unknown and I am really looking forward to meeting everyone within the company. 
 
-# Week 1
+## Week 1
 
-## Update 1 (4/6/18) Day 1
+### Update 1 (4/6/18) Day 1
 
 Hello there! 
 
