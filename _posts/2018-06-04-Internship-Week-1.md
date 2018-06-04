@@ -2,7 +2,7 @@
 layout: post
 title: Craneware: Summer Internship Week 1 
 ---
-## Exciting Journey About To Begin...
+# Exciting Journey About To Begin...
 
 Hey there!
 
@@ -10,7 +10,7 @@ So first things first, this blog post and subsequent blog posts will be all abou
 
 I plan on trying to update it daily or every few day on my morning commute but changes will be marked with "Update (Date)" so if you are coming back to read this then you know where I have added new items. 
 
-# This Is The Begining
+## This Is The Begining
 
 I am really excited to be starting my internship at Craneware. Craneware (https://public.craneware.com/) are the market leaders in providing software, tools and services for healthcare institutions used to improve and enhance their earnings.
 
