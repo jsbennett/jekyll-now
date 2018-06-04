@@ -12,7 +12,7 @@ I plan on trying to update it daily or every few day on my morning commute but c
 
 ### This Is The Begining
 
-I am really excited to be starting my internship at Craneware. Craneware (<https://public.craneware.com/ />) are the market leaders in providing software, tools and services for healthcare institutions used to improve and enhance their earnings.
+I am really excited to be starting my internship at Craneware. Craneware (<https://public.craneware.com//>) are the market leaders in providing software, tools and services for healthcare institutions used to improve and enhance their earnings.
 
 From this internship I hope to gain new knowledge from the work I do and from everyone around me, an insight into this fast growing industry, new skills that will help me throughout my future career and studies, and to contribute a meaningful difference in the company. 
 
