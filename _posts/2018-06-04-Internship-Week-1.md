@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Craneware: Summer Internship Week 1 
+title: Internship Week 1 
 ---
 # Exciting Journey About To Begin...
 
