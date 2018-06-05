@@ -12,7 +12,7 @@ I plan on trying to update it daily or every few day on my morning commute but c
 
 ### This Is The Begining
 
-I am really excited to be starting my internship at Craneware. Craneware (<https://public.craneware.com/>) are the market leaders in providing software, tools and services for healthcare institutions used to improve and enhance their earnings.
+I am really excited to be starting my internship at Craneware. Craneware (<https://public.craneware.com/>) are the market leaders in providing software tools and services for healthcare institutions used to improve and enhance their finances.
 
 From this internship I hope to gain new knowledge from the work I do and from everyone around me, an insight into this fast growing industry, new skills that will help me throughout my future career and studies, and to contribute a meaningful difference in the company. 
 
@@ -20,11 +20,14 @@ I have never embarked on a journey like this before, it's an exciting new plunge
 
 ## Week 1
 
-### Update 1 (4/6/18) Day 1
+### Update (4/6/18) Day 1
 
 Hello there! 
 
 So today is my first day and this is my first update! I am currently on my way to Ediburgh to start my first day. As I sit on the train and with each stop we get closer, I start to get more nervous but more excited to start. I can't wait to find out what will be instore for me!
+
+### Update (5/6/18) Day 2
+Yesterday was a really great day! I got a great inisght into the company, it's products and it's staff. I am really excited to have this experience for the 12 weeks! Craneware prides itself on it's quality of their products they provide to their clients, knowing that they really make a difference in the world of healthcare. I can't wait to be apart of this. 
 
 
 Until next time, 
