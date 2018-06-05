@@ -20,6 +20,8 @@ I have never embarked on a journey like this before, it's an exciting new plunge
 
 ## Week 1
 
+The first week is all about getting to know the company, how it works and about their products. 
+
 ### Update (4/6/18) Day 1
 
 Hello there! 
