@@ -26,7 +26,7 @@ The first week is all about getting to know the Craneware, how it works and abou
 
 Hello there! 
 
-So today is my first day and this is my first update! I am currently on my way to Ediburgh to start my first day. As I sit on the train and with each stop we get closer, I start to get more nervous but more excited to start. I can't wait to find out what will be instore for me!
+So today is my first day and this is my first update! I am currently on my way to Ediburgh to start my first day. As I sit on the train and with each stop we get closer, I start to get more nervous but more excited to start. I can't wait to find out what will be in store for me!
 
 ### Update (5/6/18) Day 1
 Yesterday was a really great day! I got a great inisght into the company, it's products and it's staff including the important policies, procedures and laws that everyone in the company must follow. We even had pizza so for the first day, that was pretty good going. There are five other interns: three from Dundee University, one from Glasgow and one from Edinburgh. The staff are beyond helpful and really go out their way to make you feel welcomed. I can't see why I was even nervous in the first place! I am really excited to have this experience for the 12 weeks! Craneware prides itself on it's quality of their products they provide to their clients, knowing that they really make a difference in the world of healthcare. I can't wait to be apart of this. 
@@ -50,6 +50,14 @@ Yesterday we were in for a treat. We spent the majority of the day working on a 
 5. Understanding how to take UX requirments and translating that into what we have to do
 
 We all enjoyed this, it was a great team building excerise and I am looking forward to doing this more on a day to day basis.
+
+### Update (8/6/18) Day 5
+So today is the last day of the first week, and I am kinda feeling mixed emotions: excited to be moving onto new and exciting things, but also sad that one week is already over. We started today going through Craneware Academy some more, which is their online tool for learning and development. It is what we have been using all week to read about their products and comply with policies and legal information. It also has a treasure trove of other information that I am looking forward to digging into. 
+We then set some goalsfor what we should know, feel and do in five weeks time, agreed between us all. When the five weeks are up we will gather and discuss whther we had been sucessful in achieving them all. 
+We then got to go and meet our teams. I am the only intern in my team and I am really looking forward to getting stuk in. I found out what I will be working on and the sort of programming I will be diving into. I can't wait to start because what I am doing is specifically what i wanted to get an internship for - gaining more experince and new knowledge from a business setting. 
+
+### Week 1 Conclusion 
+To be written on monday when I have had time to jot all throughts down. 
 
 Until next time, 
 
