@@ -43,11 +43,11 @@ I am really looking forward to getting deeper technical knowledge about their pr
 
 ### Update (8/6/18) Day 4
 Yesterday we were in for a treat. We spent the majority of the day working on a mock task given to us. We had to create a side menu which followed requirements given to us from UX. First we broke down and discussed the requirements themselves, trying to elaborate on what we should do. We learnt that we spent a little bit too much time trying to have the perfect plan, which left us with a few hours to actually start programming it. We split ourselves into two groups: HTML&CSS team and Javascript team. I decided to go onto the Javascript team since I had not done much in the way of Javascript, I wanted to dive more into this, and the best way to do so is to just do it! Once we started we had a couple of issues of trying to display the items but we soon fixed them. Although we did not get the menu finished, we still learnt a lot from it:
-1. not spending too much of our time working on requirements at the beginning
-2. understanding javascript and how it works
-3. team working with like minded individuals 
-4. understanding how to manage expectations
-5. understanding how to take UX requirments and translating that into what we have to do
+1. Not spending too much of our time working on requirements at the beginning
+2. Understanding javascript and how it works
+3. Team working with like minded individuals 
+4. Understanding how to manage expectations
+5. Understanding how to take UX requirments and translating that into what we have to do
 
 We all enjoyed this, it was a great team building excerise and I am looking forward to doing this more on a day to day basis.
 
