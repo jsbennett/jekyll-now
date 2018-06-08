@@ -48,6 +48,7 @@ Yesterday we were in for a treat. We spent the majority of the day working on a 
 3. team working with like minded individuals 
 4. understanding how to manage expectations
 5. understanding how to take UX requirments and translating that into what we have to do
+
 We all enjoyed this, it was a great team building excerise and I am looking forward to doing this more on a day to day basis.
 
 Until next time, 
