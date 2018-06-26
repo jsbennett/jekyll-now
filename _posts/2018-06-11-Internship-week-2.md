@@ -23,6 +23,7 @@ Midway through the second week and I have started to create a mock application i
 - The model is the knowledge for the project domain i.e. the data to be used and manipulated. 
 - The view is for showing the model i.e how the data is displayed 
 - The controller is for handling the user commands and translating them into commands for the view and model i.e. for example, a user clicks "show me price" button. The controller instructs the view how to display the price and tells the model to get the price to be displayed. 
+
 If you want to know more, here's some useful links:
 - <https://stackoverflow.com/questions/16010631/can-someone-explain-mvc-very-simply-for-me>
 - <https://stackoverflow.com/questions/2626803/mvc-model-view-controller-can-it-be-explained-in-simple-terms?rq=1>
