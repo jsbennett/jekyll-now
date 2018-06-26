@@ -31,6 +31,7 @@ If you want to know more, here's some useful links:
 - <https://en.wikipedia.org/wiki/ASP.NET_MVC>
 
 ### Update (14/06/18) Day 9
+After spending yesterday getting to grips with ASP.NET, I continued some more on trying to create the webpage. I also dived into how routing works. From doing coursework at university, I had dabbled in this topic a little bit so being able to explore it some more was really useful. Routing allows you to naviagte to certain content on your website through the URLs. This means you can put ID's through them after certain tags e.g. 
 
 ### Update (15/06/18) Day 10
 
