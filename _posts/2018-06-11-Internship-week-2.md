@@ -29,3 +29,9 @@ If you want to know more, here's some useful links:
 - <https://stackoverflow.com/questions/2626803/mvc-model-view-controller-can-it-be-explained-in-simple-terms?rq=1>
 - <https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller>
 - <https://en.wikipedia.org/wiki/ASP.NET_MVC>
+
+### Update (14/06/18) Day 9
+
+### Update (15/06/18) Day 10
+
+### Week 2 Conclusion
