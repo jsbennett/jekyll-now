@@ -37,7 +37,7 @@ After spending yesterday getting to grips with ASP.NET, I continued some more on
 I can't believe we have reached the end of the second week already. Time seems to be flying by! Today my manager, Vladimirs, held a wee meeting where he explained what my first task was all about. I am really excited to get started and actually carry out my first piece of real world programming that will actually be used by a company and not just sitting on github looking pretty (If you can call it pretty). The first task is super interesting and is nothing like I have ever done before. I can't wait to develop these new skills and actually contribute something meaningful. Vladimirs also asked me to create a skills matrix which I have to keep up to date on what new skills I have gained from the internship! At the end of the 12 weeks, I will post a before and after of my skills and see the journey of my skills.
 
 ### Week 2 Conclusion
-So now that week 2 is done and dusted, I have found myself to have really enjoyed myself. Being able to research unfamiliar technologies has allowed me to grow my knowledge and also get a taste of what's to come. Also, starting my first task and being able to be a part of real development work has made me even more excited for the journey that is still to come. 
+So now that week 2 is done and dusted, I have found myself to have really enjoyed my second week, just as much as my first, if not more. Being able to research unfamiliar technologies has allowed me to grow my knowledge and also get a taste of what's to come. Also, starting my first task and being able to be a part of real development work has made me even more excited for the journey that is still to come. 
 
 That's all for this week! I hope you have enjoyed it!
 
