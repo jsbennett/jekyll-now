@@ -10,7 +10,7 @@ So first things first, this blog post and subsequent blog posts will be all abou
 
 #### Disclaimer: Please note that this is a personal blog and not affiliated with Craneware. All blog views and opinions are my own. 
 
-I plan on trying to update it daily or every few day on my morning commute but changes will be marked with "Update (Date)" so if you are coming back to read this then you know where I have added new items. 
+I plan on trying to update it daily or every few days on my morning commute but changes will be marked with "Update (Date)" so if you are coming back to read this then you know where I have added new items. 
 
 ### This Is The Begining
 
