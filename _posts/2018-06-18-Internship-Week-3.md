@@ -13,4 +13,9 @@ Since I am now working on my project at Craneware, I feel it would be inappropro
 #### Disclaimer: Please note that this is a personal blog and not affiliated with Craneware. All blog views and opinions are my own. 
 
 ### Week 3 - Day 11 to Day 15 (18/06/18 - 22/06/18)
-Week 3 has come and gone, and let me say, it has been a busy week! I spent most of the week completing the first task of my project. The first task through many challenges my way. 
+Week 3 has come and gone, and let me say, it has been a busy week! I spent most of the week completing the first task of my project. The first task threw many challenges my way. So let's get cracking!
+  Generally, I had to create a deserialiser to deserialise information from a request. At the beginning of the week, I had no clue what serialisation and deserialisation (Microsoft Word spelling: Serialization/deserialization but this feels like to me it's the American spelling so I'm just going to use the way I think it would be spelt. Plz drop me a wee message if it's not the correct way!) but now I know ALL about it. I'm practically dreaming about it. Anyhow, serialisation is the process in which data is For more information, I found this to greatly help my understanding - <https://www.c-sharpcorner.com/article/serialization-and-deserialization-in-c-sharp/>
+  
+  //using schemas to make classes
+  //wrote some unit tests 
+  //talk about making deserialiser generic
