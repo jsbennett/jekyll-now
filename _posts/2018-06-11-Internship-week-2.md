@@ -42,4 +42,7 @@ So now that week 2 is done and dusted, I have found myself to have really enjoye
 That's all for this week! I hope you have enjoyed it!
 
 Until next time, 
+
 Jay
+
+### N.B. If you would like to read all about week 3, click [HERE!](https://jsbennett.github.io/Internship-Week-3/)
