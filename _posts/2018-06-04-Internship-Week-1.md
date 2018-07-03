@@ -64,3 +64,5 @@ Now that my first week has drawn to a close and I'm about to embark on my second
 Until next time, 
 
 Jay 
+
+### N.B. If you would like to read week 2, click [HERE!](https://jsbennett.github.io/Internship-week-2/)
