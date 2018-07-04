@@ -45,4 +45,4 @@ Until next time,
 
 Jay
 
-### N.B. If you would like to read all about week 3, click [HERE!](https://jsbennett.github.io/Internship-Week-3/)
+### N.B. If you would like to read all about Week 3, click [HERE!](https://jsbennett.github.io/Internship-Week-3/)
