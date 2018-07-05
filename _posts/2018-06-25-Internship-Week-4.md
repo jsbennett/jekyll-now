@@ -37,6 +37,10 @@ Ioc - https://softwareengineering.stackexchange.com/questions/131451/difference-
 
 I also got the chance to attend the sprint retrospective and planning sessions. A retrospective is where the sprint team come together and discuss how the sprint has gone for eachother and the team. I found this really interesting and I was able to pick up tips on how to work better when working in a sprint. These include asking more questions and to try to not take on too much work at any one time.  A sprint planing is where the team come together again and go through what wasn't complete in the last sprint and new work items in the backlogs and decide what to complete during the next sprint. From these meetings I was able to get a sense of how important planning actually is and also how important being realistic with how much work you will get done is to the progression of the team. 
 
-//fixed my code corrections 
+Vladimirs got back to me with the changes needed with the code I had written. I found this to be the most useful feedback yet. To have a developer review what you have done and discuss where to improve is one of the most valuable discussions to any developer. From University they teach you how to generally be a good developer. But only by being in the industry you can develop and know what sort of style of coding is most useful. At Univeristy we get told to comment ALL the time. Whereas here at Craneware, they believe (and I have since turned to this opinion too) that code should be self-documenting. Why add commments to code when someone should read down and understand what is going on. This means using meaningful variable, method and class names. I found this more difficult than I thought due to the unfamiliarity with the data I was using. This was one of the things that Vladimirs picked uo on and I recognise that it is an area that I need to improve. I am now proactively making sure that my aming conventions are simple and properly describe what I am doing. 
+
+I also recieved the feedback that I need to seperate out methods more. 
+
+
 //attended tdd kata
 //started to design database
