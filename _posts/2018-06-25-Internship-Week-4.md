@@ -43,7 +43,7 @@ I also recieved the feedback that I need to seperate out methods more. When I wa
 
 This week I also attended a Test Driven Development Kata with Vladimirs and a few of the other interns. I'd never been to a kata before, not in this sense anyway. My sister attends Karate and they do kata's there, so I was confused as to what it meant in the content of software. I did some research and found [this website](http://codekata.com/) which explains it really really well. Basically, in the sense of a software kata //explain what it is and what we did at it
 
-So this week has been jam packed!!! This has by far been my favourite week so far, I got to learn new things, challenge myself thriygh my work and recieve feedback on how to improve. This is basically the baseline goals of what I wanted to do at an internship and to recieve all of that in one weekhas got me very excited for what the net eight weeks will have!
+So this week has been jam packed!!! This has by far been my favourite week so far, I got to learn new things, challenge myself through my work and recieve feedback on how to improve. This is basically the baseline goals of what I wanted to do at an internship and to recieve all of that in one week has got me very excited for what the net eight weeks will have!
 
 Until next time, 
 
