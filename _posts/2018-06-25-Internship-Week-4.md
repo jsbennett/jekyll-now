@@ -32,7 +32,7 @@ So what I have learned about Entity Framework is that:
 - If you would like to dive a lil' deeper, check out [this tutorial!](https://www.tutorialspoint.com/entity_framework/index.htm)
 
 Next, I dug into reading about Inversion Of Control and Dependecy Injection. 
-// learned about IoC and Dependecy Injection
+// learned about IoC and Dependecy Injection - explain them
 Ioc - https://softwareengineering.stackexchange.com/questions/131451/difference-between-dependency-injection-di-and-inversion-of-control-ioc
 
 I also got the chance to attend the sprint retrospective and planning sessions. A retrospective is where the sprint team come together and discuss how the sprint has gone for eachother and the team. I found this really interesting and I was able to pick up tips on how to work better when working in a sprint. These include asking more questions and to try to not take on too much work at any one time.  A sprint planing is where the team come together again and go through what wasn't complete in the last sprint and new work items in the backlogs and decide what to complete during the next sprint. From these meetings I was able to get a sense of how important planning actually is and also how important being realistic with how much work you will get done is to the progression of the team. 
@@ -41,8 +41,10 @@ Vladimirs got back to me with the changes needed with the code I had written. I 
 
 I also recieved the feedback that I need to seperate out methods more. When I was working on my first task, at first I was hesitant to actually create loads of classes. I didn't want to clutter up everything with classes. But from seprating some of the methods, I wonder why I didn't do this in the first place. Just by moving some of them into seperate classes has made my work more readable and it makes sense to pop them in a more meaningful names class so other developers can come along and know what and why the code does what it does. It also helps with unit testing too. 
 
-This week I also attended a Test Driven Development Kata with Vladimirs and a few of the other interns. 
+This week I also attended a Test Driven Development Kata with Vladimirs and a few of the other interns. I'd never been to a kata before, not in this sense anyway. My sister attends Karate and they do kata's there, so I was confused as to what it meant in the content of software. I did some research and found [this website](http://codekata.com/) which explains it really really well. Basically, in the sense of a software kata //explain what it is and what we did at it
 
+So this week has been jam packed!!! This has by far been my favourite week so far, I got to learn new things, challenge myself thriygh my work and recieve feedback on how to improve. This is basically the baseline goals of what I wanted to do at an internship and to recieve all of that in one weekhas got me very excited for what the net eight weeks will have!
 
-//attended tdd kata
-//started to design database
+Until next time, 
+
+Jay 
