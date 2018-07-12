@@ -27,4 +27,4 @@ Anyway, until next time,
 
 Jay 
 
-
+### N.B. If you would like to read all about Week 4, click [HERE!](https://jsbennett.github.io/Internship-Week-4/)
