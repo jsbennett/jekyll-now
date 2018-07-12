@@ -43,7 +43,7 @@ So basically Investion of Control is the methodology of what to do and Dependecy
 2. setter injection - passing dependecy into the setter method 
 3. interface injection - passing dependecy into the setter methods of an interface
 
-
+There are many advantages of this and they are explained excellently [here](https://softwareengineering.stackexchange.com/questions/19203/what-are-the-benefits-of-using-dependency-injection-and-ioc-containers).
 
 I also got the chance to attend the sprint retrospective and planning sessions. A retrospective is where the sprint team come together and discuss how the sprint has gone for eachother and the team. I found this really interesting and I was able to pick up tips on how to work better when working in a sprint. These include asking more questions and to try to not take on too much work at any one time.  A sprint planing is where the team come together again and go through what wasn't complete in the last sprint and new work items in the backlogs and decide what to complete during the next sprint. From these meetings I was able to get a sense of how important planning actually is and also how important being realistic with how much work you will get done is to the progression of the team. 
 
