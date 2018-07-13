@@ -35,9 +35,16 @@ Yesterday was a really great day! I got a great insight into the company, it's p
 
 ### Update (5/6/18) Day 2
 So we got into even more interesting topics yesteday, covering stuff like devops, coding standards and even a game of pool. Hopefully by the end of my time here at Craneware, I would have improved the most important skill: my pool skills. Let me tell you right now, I can't play pool for the life of me so out of the seven attempts, I only potted one ball! I suppose a 14% sucess rate is not too shabby...
+We dived into Craneware's Values and Ethos, and to be honest these are values I stive to uphold myself. There values are:
+- Honesty 
+- Integrity 
+- Provide excellent service
+- Work hard
+- Enjoy the challenge
+The fact that a company promotes these five values tells you more about it than I ever could. No wonder everyone here is proud and enthusastic about their job when they work for a company which promotes and has integrated in it's roots, these values. It's a company that from what I have seen is ticking all the correct ethical boxes.
 
 ### Update (6/6/18) Day 3
-Midweek blues? Hell no! We were lucky in that everyone we have met has been passionate about what they do within the company and that really shines through when they come to talk to us. We were shown the architecture of their cloud based product Trisus. This was particularly interesting because: 
+Midweek blues? Hell no! We were lucky in that everyone we have met has been passionate about what they do within the company and that really shines through when they come to talk to us. Today we were visited by [David](https://www.linkedin.com/in/david-walker-8b90327/) and we were shown the architecture of their cloud based product Trisus. This was particularly interesting because: 
 1. I had never seen the pipeline of how such a service flows before
 2. We got a great understanding of how all the components fit together and operate
 3. It was good to see something a little bit more geeky that reading about policies and processes (sorry Cal!)
