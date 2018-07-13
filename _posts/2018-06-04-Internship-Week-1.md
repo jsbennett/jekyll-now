@@ -41,6 +41,7 @@ We dived into Craneware's Values and Ethos, and to be honest these are values I 
 - Provide excellent service
 - Work hard
 - Enjoy the challenge
+
 The fact that a company promotes these five values tells you more about it than I ever could. No wonder everyone here is proud and enthusastic about their job when they work for a company which promotes and has integrated in it's roots, these values. It's a company that from what I have seen is ticking all the correct ethical boxes.
 
 ### Update (6/6/18) Day 3
