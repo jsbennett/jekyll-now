@@ -30,7 +30,7 @@ Hello there!
 
 So today is my first day and this is my first update! I am currently on my way to Ediburgh to start my first day. As I sit on the train and with each stop we get closer, I start to get more nervous but more excited to start. I can't wait to find out what will be in store for me!
 
-### Update (4/6/18) Day 1
+### Update (5/6/18) Day 1
 Yesterday was a really great day! I got a great insight into the company, it's products and it's staff including the important policies, procedures and laws that everyone in the company must follow. We even had pizza so for the first day, that was pretty good going. There are five other interns: three from Dundee University (myself, [Conor Haining](https://www.linkedin.com/in/conor-haining) and [Marc Giannandrea](https://www.linkedin.com/in/marcgian/)), one from Glasgow (Ewan Corbett) and one from Edinburgh([Ben Elo](https://www.linkedin.com/in/benjamin-elo-504619127/)). The staff are beyond helpful and really go out their way to make you feel welcomed. I can't see why I was even nervous in the first place! I am really excited to have this experience for the 12 weeks! Craneware prides itself on it's quality of their products they provide to their clients, knowing that they really make a difference in the world of healthcare. I can't wait to be apart of this. 
 
 ### Update (5/6/18) Day 2
