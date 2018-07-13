@@ -7,7 +7,7 @@ title: Internship Week 4
 ## Introduction 
 Howdy there! 
 
-I can't believe at the end of this week I would have been at Craneware for four whole weeks! On the 4th of July, this will offically be the one month mark, so next week I'll slightly break tradition (again sorry) and add a mid-week review of the four weeks. Exciting huh! Without further ado, here is week 4 in all it's glory!
+I can't believe at the end of this week I would have been at Craneware for four whole weeks! On the 4th of July, this will offically be the one month mark! I can't believe I have almost been at Craneware for an entire month.
 #### Disclaimer: Please note that this is a personal blog and not affiliated with Craneware. All blog views and opinions are my own. 
 ## Week 4 (25/06/18 - 29/06/18)
 At the beginning of the week, I finally got TFS access! HURRAH!! TFS is the work management tool that Craneware use for each team. Finally having access means that I can finally commit the work I have been doing, have it reviewed and add my code to a real world product. Exciting huh? Once I had commited my changes, Vladimirs went about reviewing my work. 
