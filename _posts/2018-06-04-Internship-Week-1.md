@@ -22,7 +22,7 @@ I have never embarked on a journey like this before, it's an exciting new plunge
 
 ## Week 1
 
-The first week is all about getting to know Craneware, how it works and about their products. This will provide a great understanding into how they operate, preparing us to take on more work when we start our roles. 
+The first week is all about getting to know Craneware, how it works and about their products. If you'd like to read more into their products, click [here](https://public.craneware.com/solutions/) or send me a message and I'll try my best! This will provide a great understanding into how they operate, preparing us to take on more work when we start our roles. 
 
 ### Update (4/6/18) Day 1: Pre-arrival
 
