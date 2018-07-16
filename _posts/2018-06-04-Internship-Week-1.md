@@ -39,7 +39,7 @@ Yesterday was a really great day! I got a great insight into the company, it's p
 
 ### Update (5/6/18) Day 2
 So we got into even more interesting topics yesteday, covering stuff like devops, coding standards and even a game of pool. Hopefully by the end of my time here at Craneware, I would have improved the most important skill: my pool skills. Let me tell you right now, I can't play pool for the life of me so out of the seven attempts, I only potted one ball! I suppose a 14% sucess rate is not too shabby...
-We dived into Craneware's Values and Ethos, and to be honest these are values I stive to uphold myself. Their values are:
+We dived into Craneware's Values and Ethos, and to be honest these are values I strive to uphold myself. Their values are:
 - Honesty 
 - Integrity 
 - Provide excellent service
